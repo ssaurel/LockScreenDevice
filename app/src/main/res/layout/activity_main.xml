@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ssaurel.lockdevice.MainActivity">
+
+    <Button
+        android:id="@+id/lock"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Lock the Phone"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/enableBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Enable"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/lock"/>
+
+    <Button
+        android:id="@+id/disableBtn"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="Disable"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/enableBtn"/>
+
+
+</RelativeLayout>
