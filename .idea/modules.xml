@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LockDevice.iml" filepath="$PROJECT_DIR$/LockDevice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LockScreenDevice.iml" filepath="$PROJECT_DIR$/.idea/modules/LockScreenDevice.iml" group="LockScreenDevice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LockScreenDevice-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LockScreenDevice-app.iml" group="LockScreenDevice/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
