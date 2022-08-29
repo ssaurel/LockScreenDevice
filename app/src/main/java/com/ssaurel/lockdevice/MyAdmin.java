@@ -1,6 +1,6 @@
 package com.ssaurel.lockdevice;
 
-import android.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.app.admin.DeviceAdminReceiver;
 import android.content.Context;
 import android.content.Intent;
